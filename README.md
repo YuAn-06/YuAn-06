@@ -1,6 +1,6 @@
 ### Hi there 👋 :koala: :cow2:
 
-  I am currently pursuing the Master degrees with the College of Control Science and Engneering, Beijing University of Chemical Technology, Beijing, China. My research interests include  process data analytics, soft sensor modeling and machine learning. You can find my publications in my projects. 
+  I am currently pursuing the MA.Eng degrees with the College of Control Science and Engneering, Beijing University of Chemical Technology, Beijing, China. My research interests include  process data analytics, soft sensor modeling and machine learning. You can find my publications in my projects. 
  
 :palm_tree: I am currently learning Graph Mining, doing Leetcode exercises and preparing next publication.:palm_tree:
  

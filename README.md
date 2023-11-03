@@ -1,6 +1,6 @@
 ### Hi there 👋 :koala: :cow2:
 
-  I am currently pursuing the M.S. degrees with the College of Control Science and Engneering, Beijing University of Chemical Technology, Beijing, China. My research interests include  process data analytics, soft sensor modeling and machine learning. You can find my publications in my projects. 
+  I am currently pursuing the Ph.D. degrees with the College of Control Science and Engneering, Beijing University of Chemical Technology, Beijing, China. My research interests include  process data analytics, soft sensor modeling and machine learning. You can find my publications in my projects. 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuAn-06&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
